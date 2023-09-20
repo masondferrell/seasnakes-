@@ -1,0 +1,163 @@
+---
+title: "Sea Snakes"
+author: "Mason Ferrell"
+date: "2023-09-20"
+output: html_document
+---
+
+Olive Seasnake *Aipysurus laevis*
+
+![](images/IMG_1356%20Small.png)
+
+Beaded Seasnake *Aipysurus eydouxii*
+
+![](images/beadedseasnake%20Small.png)
+
+Reef shallows Seasnake *Aipysurus duboisii*
+
+![](images/reefshallowssnake%20Small.png)
+
+```{r packages}
+library(tidyverse)
+library(gtsummary)
+library(gt)
+library(flextable)
+library(ggplot2)
+library(xlsx)
+library(dplyr)
+library(xfun)
+```
+
+```{r}
+data<-read.csv("..//snake.csv")
+```
+
+```{r filtered data,echo=FALSE}
+datafiltered<-data %>% select(species,Sex,Tail.length..cm.,tail.width..max.,head.width..mm.,body.width..cm.,eye.diam...mm.)
+```
+
+```{r}
+theme_gtsummary_mean_sd(set_theme = TRUE)
+```
+
+```{r t-test,echo=FALSE}
+table_seasnake <-datafiltered %>% 
+  filter(species =="laevis") %>% select(Sex,Tail.length..cm.,tail.width..max.,head.width..mm.,body.width..cm.,eye.diam...mm.) %>% 
+  tbl_summary(
+    by = Sex,
+    missing = "no",
+    digits = all_continuous() ~ 1,
+    label = list(
+     Tail.length..cm. ~ "Tail length cm",
+     tail.width..max. ~ "Tail width mm",
+     head.width..mm. ~ "Head width mm",
+     body.width..cm. ~ "Body width cm",
+     eye.diam...mm. ~ "Eye diameter mm"
+     ),
+statistic = list(all_continuous() ~ "{mean} ({sd})",all_categorical() ~ "{n}") ) %>% 
+  add_p(pvalue_fun = ~ style_pvalue(.x, digits = 2)) %>%
+  modify_caption("Table 1 *Aipysurus laevis*")%>%
+  modify_header(
+    update = list(
+      label ~ '',
+      stat_1 ~ '**Female**',
+      stat_2 ~ '**Male**',
+      p.value ~ '**P-value**')
+  )
+```
+
+```{r t-test table,echo=FALSE}
+table_seasnake
+```
+
+```{r saving table 1,echo=FALSE}
+table_seasnake %>%
+  as_flex_table() %>%
+  flextable::save_as_docx(path = "../images/table_seasnake_flextable.docx")
+```
+
+```{r,echo=FALSE}
+table_seasnakes_anova <- datafiltered %>%
+  select(species, Sex,Tail.length..cm.,tail.width..max. ) %>%
+  filter(species %in% c("laevis", "duboisii", "eydouxii")) %>%
+  tbl_summary(
+    by = species,
+    missing = "no",
+    digits = all_continuous() ~ 1,
+    label = list(
+      Tail.length..cm. ~ "TL (cm)",
+      tail.width..max. ~ "TW max (cm)",
+      Sex ~ "Sex"
+    ),
+    statistic = list(all_continuous() ~ "{mean} ({sd})", 
+                     all_categorical() ~ "{n}")
+  ) %>% 
+  add_p(pvalue_fun = ~ style_pvalue(.x, digits = 2)) %>% 
+  modify_caption("Table 2. Seasnake and tail measurements") %>%
+  modify_footnote(everything() ~ NA) %>%
+  modify_header(
+    update = list(
+      label ~ '',
+      stat_1 ~ '**A. laevis**',
+      stat_2 ~ '**A.duboisii **',
+      stat_3 ~ '**A.eydouxii **',
+      p.value ~ '**P-value**'
+    )
+  )
+
+table_seasnakes_anova
+```
+
+```{r saving table 2,echo=FALSE}
+table_seasnakes_anova %>%
+  as_flex_table() %>%
+  flextable::save_as_docx(path = "../images/table_seasnake_anova_flextable.docx")
+```
+
+```{r,echo=FALSE}
+laevis <- datafiltered %>%
+  filter(species == "laevis") 
+ex <- laevis%>% 
+  select(Tail.length..cm.,tail.width..max.,head.width..mm.,body.width..cm.,eye.diam...mm.,Sex)%>%
+  tbl_summary(by=Sex, 
+              digits = all_continuous() ~ 1,
+              include=c(Tail.length..cm.,tail.width..max.,body.width..cm.,eye.diam...mm.),
+              )%>%
+  add_difference(adj.vars=c(head.width..mm.)) 
+
+ex
+```
+
+```{r,echo=FALSE}
+ex %>%
+  as_flex_table() %>%
+  flextable::save_as_docx(path = "../images/ex_flextable.docx")
+```
+
+```{r,echo=FALSE}
+plot1<-datafiltered
+ggplot(plot1)+geom_point(aes(
+  x=Tail.length..cm.,y=tail.width..max.,color=Sex))+
+  geom_line(aes(x=Tail.length..cm.,y=tail.width..max.,
+                color=Sex))
+```
+
+```{r,echo=FALSE}
+plot2<-datafiltered
+ggplot(plot2, (aes(x=Tail.length..cm.,y=tail.width..max., fill=species)))+
+         geom_boxplot()+
+  stat_boxplot(geom='errorbar', linetype=1, width=0.5)
+```
+
+```{r,echo=FALSE}
+model_1 <- lm(Tail.length..cm. ~ tail.width..max. + Sex, data=datafiltered)
+summary(model_1)
+```
+
+```{r,echo=FALSE}
+model_1_fortified <- fortify(model_1)
+ggplot(model_1) +
+  geom_point(aes(x = tail.width..max., y =Tail.length..cm. , color = Sex)) +
+  geom_line(aes(x =tail.width..max., y = .fitted, color = Sex)) +
+  geom_vline(xintercept=mean(datafiltered$tail.width..max.), linetype='dashed', color='blue', size=0.5)
+```

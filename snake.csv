@@ -1,0 +1,420 @@
+genus,species,MUSEUM,Museum Rego No,SVL (cm),Tail length (cm),tail width (max),head length (mm),head width (mm),body width (cm),eye diam. (mm),Sex,Adult?
+Aipysurus,laevis,AUST MUSEUM,R.21451,405,66,24,26.3,15.5,22,3.5,f,j
+Aipysurus,laevis,AUST MUSEUM,R.33353,430,65,20,25.4,16.3,20,3,f,j
+Aipysurus,laevis,AUST MUSEUM,R.30347,475,90,21,23.7,15.2,22,3.5,f,j
+Aipysurus,laevis,AUST MUSEUM,R.44612,535,87,24,32.6,24.8,28,3.5,f,j
+Aipysurus,laevis,AUST MUSEUM,R.41034,590,112,28,28.8,16.2,25,3.9,f,j
+Aipysurus,laevis,AUST MUSEUM,R.44898,680,100,26,30.4,19.4,24,4,f,j
+Aipysurus,laevis,AUST MUSEUM,R.44860,710,116,29,40,20.5,30,4.5,f,j
+Aipysurus,laevis,AUST MUSEUM,R.41006,715,120,27,30.5,19.9,28,5.1,f,j
+Aipysurus,laevis,AUST MUSEUM,R.44627,730,100,27,43.9,31.2,27,4,f,j
+Aipysurus,laevis,AUST MUSEUM,R.45055,785,135,36,47.5,30,41,3.9,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44643,800,113,27,42.6,28,36,4.7,f,a
+Aipysurus,laevis,AUST MUSEUM,R.42699,820,132,35,47.5,36.6,45,5.5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44452,860,130,32,44.2,31.5,40,5.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44596,860,150,37,51.5,35.5,35,5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.41530,870,120,36,46.3,44.8,47,5.8,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44606,880,128,27,45.8,30.3,35,5.9,f,a
+Aipysurus,laevis,AUST MUSEUM,R.7183,910,160,38,52,44,55,5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.45042,915,155,36,51.3,34.6,50,6.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.7118,920,115,40,42.5,29.3,25,5.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.6804,930,140,39,47.3,34.8,55,5.5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44523,970,150,39,56.7,42.5,60,6.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44644,970,155,41,57.3,35.6,43,5.6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44904,980,122,33,54,39.5,40,5.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.11327,1020,145,40,55.6,44.3,50,6.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.8642,1020,165,49,50,35,52,6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.41525,1030,145,36,50,39.3,39,5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.45012,1035,172,31,55.6,34,50,6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44572,1060,160,39,50.7,42.5,44,5.2,f,a
+Aipysurus,laevis,AUST MUSEUM,R.19137,1070,160,40,0,0,60,,f,a
+Aipysurus,laevis,AUST MUSEUM,R.15089,1170,130,48,64.3,46.4,60,5.3,f,a
+Aipysurus,laevis,MAGNT,R03532,1217,174,47,57.7,47.4,68,6.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.33247,1380,183,52,67.2,43,70,5.5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.21450,379,66,20,21.8,16.5,20,3.4,m,j
+Aipysurus,laevis,AUST MUSEUM,R.44620,502,93,24,29.2,20.6,22,3.5,m,j
+Aipysurus,laevis,AUST MUSEUM,R.44455,592,85,23,29.5,20.4,25,4.3,m,j
+Aipysurus,laevis,AUST MUSEUM,R.44460,620,132,27,35.5,26.1,32,4.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44429,655,125,25,35.2,22.6,23,3.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44568,670,127,26,34.3,23.3,32,5.5,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44864,675,134,27,33.3,20.5,36,4.6,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44595,694,119,25,33.4,23.4,28,4.1,m,a
+Aipysurus,laevis,AUST MUSEUM,R.42698,695,125,24,35,22.2,26,5.5,m,a
+Aipysurus,laevis,AUST MUSEUM,R.42709,710,108,20,32.1,18.5,24,3.6,m,a
+Aipysurus,laevis,AUST MUSEUM,R.126232,710,132,30,33.9,18.7,25,3.8,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44866,730,108,25,33.6,23.5,32,4,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44868,740,118,22,33.4,24.8,30,3.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44633,740,140,26,38.5,25.7,36,4,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44571,740,145,29,38.2,23.6,29,5,m,a
+Aipysurus,laevis,MAGNT,R17385,747,146,37,41,34.8,44,5.1,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44442,750,125,27,35.5,33.4,35,4.8,m,a
+Aipysurus,laevis,AUST MUSEUM,R.42703,770,126,27,35.1,25.5,35,4.4,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44629,775,120,24,38.8,24.2,30,4.4,m,a
+Aipysurus,laevis,AUST MUSEUM,R.142925,785,141,33,44.4,28.2,40,5.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.42038,785,145,37,44.9,31.2,50,6,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41051,790,155,35,39.6,27.2,36,5.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44587,805,129,25,32.6,23.5,30,4.3,m,a
+Aipysurus,laevis,MAGNT,R21270,830,137,0,38,23.2,32.9,4.3,m,a
+Aipysurus,laevis,MAGNT,R37122,900,152,0,42.6,28.3,34.6,4.6,m,a
+Aipysurus,laevis,MAGNT,R37116,900,155,0,44.2,29.1,31.5,4.7,m,a
+Aipysurus,laevis,MAGNT,R36651,907,158,37,43.5,26.7,39,4.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.8643,910,175,42,51.7,32.1,45,5.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44584,915,133,26,38.5,21.7,28,5.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41532,546,82,21,26.5,17.5,23,4,f,j
+Aipysurus,laevis,AUST MUSEUM,R.41523,720,130,32,42.5,29.8,38,5.2,f,a
+Aipysurus,laevis,AUST MUSEUM,R.41527,740,110,27,41.7,32.3,33,4.9,f,j
+Aipysurus,laevis,AUST MUSEUM,R.41529,745,116,30,38.3,28.3,35,5.3,f,j
+Aipysurus,laevis,AUST MUSEUM,R.119396,890,0,39,49,39.2,55,5.2,f,a
+Aipysurus,laevis,AUST MUSEUM,R.41528,920,145,35,42.5,36.4,45,6.7,f,a
+Aipysurus,laevis,AUST MUSEUM,R.119395,650,131,23,37.5,23.7,35,5.5,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41539,680,144,26,36.5,20.8,38,4.8,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41507,780,130,30,33.3,23.9,33,4.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41524,845,134,29,38.5,25.7,31,4.6,m,a
+Aipysurus,laevis,AUST MUSEUM,R.174285,1060,172,44,62.5,45.5,65,6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.174281,1110,176,44,62.5,41,52,7,f,a
+Aipysurus,laevis,AUST MUSEUM,R.174286,1135,0,40,59.5,46.7,50,6.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.53772,710,120,25,29.3,22.7,28,3.9,f,j
+Aipysurus,laevis,MAGNT,R26519,820,132,0,46,32.4,34,4.6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.174283,920,135,29,57.7,40,55,5.2,f,a
+Aipysurus,laevis,AUST MUSEUM,R.174282,930,157,37,56.2,36.1,50,5.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.104813,950,160,37,55.5,40,50,5.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.174284,1165,170,40,67.2,54.2,65,6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.104814,860,171,35,45.4,31.8,55,5.5,m,a
+Aipysurus,laevis,AUST MUSEUM,R.104812,990,173,34,44.5,29.2,50,5.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.140934,795,0,38,39.6,32.6,50,4.8,f,j
+Aipysurus,laevis,AUST MUSEUM,R.104808,755,155,35,39.5,32.5,45,4,m,a
+Aipysurus,laevis,MAGNT,R21253,334,54,12,20.7,14.8,15,3.1,f,j
+Aipysurus,laevis,AUST MUSEUM,R.140935,400,64,19,21.7,12.6,21,2.8,f,j
+Aipysurus,laevis,MAGNT,R21269,798,127,29,36.6,27.8,37,4.2,f,a
+Aipysurus,laevis,MAGNT,R21273,896,129,37,44.6,32.9,45,4.5,f,a
+Aipysurus,laevis,MAGNT,R21275,950,143,0,48.2,35.8,37.4,5.5,f,a
+Aipysurus,laevis,MAGNT,R21276,956,139,41,44.6,26.9,52,4.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.61480,960,137,41,42.3,34.2,42,5.5,f,a
+Aipysurus,laevis,MAGNT,R21274,974,139,42,47.1,35.6,51,5.7,f,a
+Aipysurus,laevis,MAGNT,R17776,982,139,43,51.9,29.7,51,5,f,a
+Aipysurus,laevis,MAGNT,R17775,1043,0,47,43.5,39.5,66,6.1,f,a
+Aipysurus,laevis,MAGNT,R17774,1050,136,37,57.4,42.6,42,5.6,f,a
+Aipysurus,laevis,MAGNT,R17773,1087,125,36,45.3,37,57,5.1,f,a
+Aipysurus,laevis,AUST MUSEUM,R.61481,1270,169,45,51.5,49,45,5.9,f,a
+Aipysurus,laevis,MAGNT,R21250,394,66,12,17.5,14.6,18,2.4,m,j
+Aipysurus,laevis,MAGNT,R17788,697,126,22,26.6,20.4,31,3.9,m,a
+Aipysurus,laevis,MAGNT,R21251,711,102,29,29.5,19.2,32,4.1,m,a
+Aipysurus,laevis,AUST MUSEUM,R.140937,780,139,30,30,19.8,32,4.1,m,a
+Aipysurus,laevis,AUST MUSEUM,R.61479,790,138,30,35.8,23.6,32,4.5,m,a
+Aipysurus,laevis,MAGNT,R29880,1000,155,0,46.8,32.3,36,5.2,m,a
+Aipysurus,laevis,MAGNT,R27145,420,76,0,19.3,14.6,14.5,2.5,f,j
+Aipysurus,laevis,AUST MUSEUM,R.107756,810,135,33,41.5,24.2,35,4.3,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44498,855,145,35,37.5,20.8,36,4.3,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44497,880,142,37,40.5,25.6,37,5.3,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44525,910,166,41,44,29.5,48,5.6,m,a
+Aipysurus,laevis,AUST MUSEUM,R.107163,820,125,31,37.5,27.8,27,4.2,f,a
+Aipysurus,laevis,AUST MUSEUM,R.44503,795,135,29,0,0,27,0,m,a
+Aipysurus,laevis,MAGNT,R02522,970,140,0,43.1,30.5,42.3,4.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.18254,720,112,32,40.2,27.3,40,5,f,a
+Aipysurus,laevis,MAGNT,R16847,760,130,0,41.5,25.5,29.2,4,f,a
+Aipysurus,laevis,AUST MUSEUM,R.140932,880,132,38,52.2,41.9,55,5.5,f,a
+Aipysurus,laevis,MAGNT,R37034,910,135,0,45.9,29.9,43.7,5.3,f,a
+Aipysurus,laevis,MAGNT,R37032,1048,157,28,40.8,35.6,39,4.9,f,a
+Aipysurus,laevis,MAGNT,R37140,1100,183,0,56,39.6,50.6,4.5,f,a
+Aipysurus,laevis,MAGNT,R37128,765,135,0,31.6,20.8,24.3,3.6,m,a
+Aipysurus,laevis,MAGNT,R36242,990,167,0,45.2,31.5,40,5.2,m,a
+Aipysurus,laevis,MAGNT,R37025,1017,176,34,40.3,27.7,37,4.6,m,a
+Aipysurus,laevis,MAGNT,R01805,870,137,0,38,23.2,32.9,4.3,m,a
+Aipysurus,laevis,AUST MUSEUM,R.60721,810,97,26,39.4,23.5,28,3.5,f,a
+Aipysurus,laevis,AUST MUSEUM,R.42032,890,143,28,42.4,35.5,40,4.9,f,a
+Aipysurus,laevis,MAGNT,R03274,996,161,49,46.6,34.5,47,4.6,f,a
+Aipysurus,laevis,AUST MUSEUM,R.140933,545,110,27,34,21,28,3.5,m,j
+Aipysurus,laevis,AUST MUSEUM,R.42033,760,140,33,37.9,24.9,45,4.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.33208,800,157,40,47.5,28.7,50,4.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.42030,835,137,33,40.4,27,39,4.9,m,a
+Aipysurus,laevis,AUST MUSEUM,R.140936,850,166,40,46.5,30.2,50,5,m,a
+Aipysurus,laevis,AUST MUSEUM,R.60743,870,152,34,48.5,32.7,41,6.1,m,a
+Aipysurus,laevis,MAGNT,R37027,1000,160,0,48.5,33,33.9,4.8,m,a
+Aipysurus,laevis,MAGNT,R03275,1065,185,0,48.5,31.5,40.4,6.2,m,a
+Aipysurus,laevis,AUST MUSEUM,R.44531,530,89,22,26.7,16.2,22,3.8,f,j
+Aipysurus,laevis,AUST MUSEUM,R.44536,590,105,24,28.6,19.4,26,3.7,f,j
+Aipysurus,laevis,MAGNT,R36490,885,126,0,39.3,22.9,39.1,4.7,f,a
+Aipysurus,laevis,MAGNT,R37101,892,127,33,41.1,26.5,35,4.4,f,a
+Aipysurus,laevis,MAGNT,R16849,895,130,0,48,34.7,48.7,4.5,f,a
+Aipysurus,laevis,MAGNT,R36664,960,0,0,50.5,40.4,42.9,5,f,a
+Aipysurus,laevis,MAGNT,R37010,1042,147,46,45.7,36.3,42,5.4,f,a
+Aipysurus,laevis,MAGNT,R01831,1080,182,0,55.1,46.9,52.8,5.5,f,a
+Aipysurus,laevis,MAGNT,R36967,1100,160,0,58.6,45.4,36.7,5.8,f,a
+Aipysurus,laevis,MAGNT,R36646,1127,153,46,46.8,29.8,54,4.7,f,a
+Aipysurus,laevis,MAGNT,R36974,1157,153,44,47.6,33.9,47,5,f,a
+Aipysurus,laevis,MAGNT,R37003,1197,180,47,57.4,54.6,72,6.3,f,a
+Aipysurus,laevis,MAGNT,R36654,1200,190,0,63.8,55.8,56.9,6,f,a
+Aipysurus,laevis,MAGNT,R37113,1213,162,56,59.5,49.9,52,5.6,f,a
+Aipysurus,laevis,MAGNT,R36990,1274,162,49,54.4,53.8,72,6.1,f,a
+Aipysurus,laevis,MAGNT,R36995,1284,149,48,60.5,53.6,62,6.9,f,a
+Aipysurus,laevis,MAGNT,R16848,825,156,43,46.4,31.5,47,4.6,m,a
+Aipysurus,laevis,MAGNT,R37478,950,143,0,43.1,27.5,40.8,5.2,m,a
+Aipysurus,laevis,MAGNT,R36992,990,162,0,45,31.9,39.8,4.4,m,a
+Aipysurus,laevis,AUST MUSEUM,R.41514,745,120,26,36.3,22.4,30,3.5,m,a
+Aipysurus,duboisii,MAGNT,R17785,420,51,11,14.9,10.3,11.2,2.1,f,j
+Aipysurus,duboisii,AUST MUSEUM,R44428,666,78,18,20,14.9,17,2.4,f,j
+Aipysurus,duboisii,AUST MUSEUM,6723,735,88,19,19.6,11.7,15,2.5,f,j
+Aipysurus,duboisii,AUST MUSEUM,R.44411,790,90,24,25.1,16.6,20,2.5,f,j
+Aipysurus,duboisii,AUST MUSEUM,R.44903,790,0,22,23.2,16.6,19,2.4,f,j
+Aipysurus,duboisii,AUST MUSEUM,R.41057,810,98,22,23.3,18,24,2,f,j
+Aipysurus,duboisii,AUST MUSEUM,R.41520,820,96,24,24,17,26,2.2,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.44631,830,106,21,25,17.5,28,3.1,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.142924,840,0,29,23.2,16.2,23,3.8,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.110307,860,103,28,23.3,18.6,36,2.5,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.140886,860,105,25,26.2,17.3,28,2.5,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.144974,860,122,24,24.7,16.3,27,3.7,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.44502,870,99,26,0,0,25,0,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.41059,885,125,27,25.3,19.9,33,2.6,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.44430,900,111,23,25.3,14.7,14,2.6,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.42024,910,108,22,26.7,17.8,28,3.1,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.44410,920,120,29,26.5,16.7,29,2.2,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.110308,930,114,28,24,17.4,24,2.3,f,a
+Aipysurus,duboisii,MAGNT,R10944,957,0,24,21.5,16.4,27,2.5,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.14427,980,123,26,25.9,17,33,3.2,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.41005,980,113,26,25.9,16.8,35,2,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.41064,1000,118,28,24.5,17.8,28,1.7,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.44412,1000,110,32,26.6,15.3,24,1.8,f,a
+Aipysurus,duboisii,AUST MUSEUM,R168818,1010,122,28,26.5,16.3,28,2.4,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.8641,1035,119,32,27,17.2,33,2.4,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.15088,1040,141,34,30.4,20.7,35,2.5,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.140887,1050,115,28,28.2,18.7,28,2.1,f,a
+Aipysurus,duboisii,MAGNT,R36638,1195,126,32,27.9,22.1,42,4.8,f,a
+Aipysurus,duboisii,AUST MUSEUM,R.140888,1200,138,35,30.1,20.2,30,3.3,f,a
+Aipysurus,duboisii,MAGNT,R36672,1332,0,33,31.4,23,41,4.1,f,a
+Aipysurus,duboisii,AUST MUSEUM,R44457,580,83,19,19.3,11.7,20,2.6,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.37139,620,80,20,20,12.6,26,2.5,m,j
+Aipysurus,duboisii,AUST MUSEUM,R13804,620,95,18,21.6,14.5,20,2.4,m,j
+Aipysurus,duboisii,AUST MUSEUM,R.44404,625,94,20,21.6,14.5,24,1.8,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44402,630,89,20,20.5,13.5,24,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44552,650,95,22,20.7,13.4,22,1.7,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44401,655,92,23,22.9,15.2,28,2.4,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44399,670,95,22,19.2,13.2,20,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.40497,680,90,20,21.7,15.6,20,2.7,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44611,680,98,18,23.1,15.3,21,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44496,710,100,23,20.5,14.3,20,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44863,720,96,25,22.3,15.2,27,2.2,m,a
+Aipysurus,duboisii,MAGNT,R21262,720,88,24,22.9,13.4,25,3.1,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44459,725,90,19,23.2,14.8,15,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.41063,730,96,22,21.2,13.5,25,1.6,m,a
+Aipysurus,duboisii,MAGNT,R17781,731,120,23,19.6,12.5,17,3.1,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.20779,735,101,27,18.4,14.6,27,3.2,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44398,740,96,24,23.2,12.5,20,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44407,740,100,26,21.8,13.6,32,2.2,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44861,740,100,22,23.3,15,23,2.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.107755,745,98,20,24.2,14.7,20,2.8,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.109667,750,95,22,22.3,16.4,23,2.2,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.110309,750,92,24,22.7,16.1,24,3,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44617,750,80,21,21.9,13.4,20,2.8,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44408,760,105,25,0,0,23,,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.3346,780,108,25,22.2,15.2,28,3.4,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.41062,780,112,24,18.7,14.9,25,1.3,m,a
+Aipysurus,duboisii,MAGNT,R17787,790,89,22,20,13,21,3.1,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44413,795,115,22,25,16.7,27,1.9,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.42102,810,113,22,23.1,15,23,2,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.44895,820,102,23,27.3,15.6,27,2.8,m,a
+Aipysurus,duboisii,MAGNT,R16843,823,110,26,20.2,19.5,29,3,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.17743,840,115,28,23.8,15.2,22,2.4,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.41065,840,116,26,21.6,12.7,22,2.5,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.95003,880,115,24,26.5,18,20,3.6,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.140884,890,130,26,24.9,13.8,28,2.5,m,a
+Aipysurus,duboisii,MAGNT,R01801,908,112,26,20.2,16.9,28,4.1,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.41060,930,118,25,27.3,17.1,25,2.1,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.95185,980,130,26,32.2,18.1,21,3.8,m,a
+Aipysurus,duboisii,MAGNT,R16844,998,142,27,23,21.1,29,3.4,m,a
+Aipysurus,duboisii,AUST MUSEUM,R.140873,1040,130,27,29.8,20.5,32,3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,AG308,280,49,10,13.3,7.2,13,2.1,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R8301,398,82,17,19.4,10.3,21,2.6,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R13805,467,98,20,20.5,11.9,18.5,2.5,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R17623,625,93,20,22.2,12.9,28,2.9,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R19381,436,0,0,17.3,10.7,14.6,2.4,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R33244,615,110,26,22.9,14.9,26,3.2,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R33246,1000,150,38,28.7,17.6,45,3.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R33249,700,115,25,0,0,28,0,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R33251,710,0,28,25.8,16.8,32,3.1,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R33278,610,98,24,23.2,13.5,30,3.1,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R41030,640,100,25,24.3,16.1,33,3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R41031,720,110,26,25,14.7,28,3.4,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R41032,460,92,20,20.9,11.3,20,3.7,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R41033,600,121,22,23.2,14.6,26,3.1,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R41058,310,52,14,15.6,9.5,15,2.5,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R42029,270,47,15,16.2,8.5,13,2,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R42034,680,135,30,29.5,17,35,3.8,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R44415,255,46,10,13.1,6.9,15,2,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R44416,225,43,10,12.6,6.2,10,1.8,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R44417,360,70,12,15.6,8.2,18,2.1,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R44419,370,75,15,15.4,7.7,19,2.8,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R44420,390,75,16,17.5,8.8,18,2,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R44422,315,58,10,15.5,7.9,17,1.8,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R44423,400,77,15,16.2,8.7,20,2.6,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R44424,230,40,11,13.7,7.3,13,1.9,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R44524,638,100,22,23.7,15.1,38,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R44564,295,40,12,14.9,8.4,11,1.9,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R44616,645,75,19,19.6,11.4,24,2.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R44878,640,82,21,24.2,13.8,24,2.3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R44969,475,86,18,18.7,11.8,23,1.9,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R44975,610,108,19,20.5,12.9,25,2.6,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R44982,800,143,32,25.6,19.5,38,3.5,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R44984,770,118,24,26.2,15.7,32,2.9,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R44989,820,127,29,27.8,15.6,32,2.9,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R45790,485,83,19,19.8,12.4,20,2.5,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R45822,490,95,22,19.7,10.8,22,2.5,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R60741,620,77,19,20.2,11.8,20,3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R64061,480,90,20,21.5,12.1,25,2.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R69728,520,80,18,18.8,10.6,35,1.9,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R93055,545,79,17,19.6,9.5,25,2.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95008,660,92,24,23.6,13.8,32,3.4,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95010,636,95,21,21.5,13.8,25,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95011,550,87,15,20.6,13,15,2.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95027,570,90,18,21.6,10.5,18,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95030,510,79,19,19.2,10.4,20,2.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95031,520,0,20,18.7,8.4,24,2.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95032,495,74,18,17.9,9,20,2.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95036,545,80,20,20.8,10.5,19,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95055,510,83,18,20,11.7,21,2.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95065,580,87,20,21.9,11.8,18,2.6,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95066,550,73,17,21.7,11.8,21,2.5,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95067,580,90,18,19.5,11.5,22,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95083,690,102,22,24.8,13.4,32,3.1,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95089,625,85,23,23.3,15.5,28,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95096,565,85,15,20.8,12.8,20,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95097,550,84,20,22.1,11.4,26,2.5,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95098,590,86,19,23.4,13.7,22,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95099,625,80,20,0,0,22,0,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95100,595,84,18,22.5,11.5,24,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95101,640,0,23,21.3,12.6,22,2.3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95102,535,85,20,21.7,12.6,24,2.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95103,510,71,18,18.8,12.6,24,2.4,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95104,610,86,20,23.5,13.6,25,2.7,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95109,625,83,18,24.5,13.9,25,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95114,560,94,20,22.8,12.6,24,3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95115,555,85,20,20.2,13.8,19,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95140,500,81,17,18.2,9.7,20,2.8,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95141,390,61,15,17.6,10,16,1.7,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R95145,520,70,18,18.1,11.3,16,2.1,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95152,460,76,18,19.6,10.7,18,2.4,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95179,480,71,18,20,10.1,17,2.3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95180,640,88,18,20.8,12.7,18,2.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95196,580,78,21,21.2,10,24,2.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95198,570,90,19,23.5,14.1,19,2.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95220,610,74,21,23.6,12.5,28,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95222,590,83,20,24.2,12.6,20,3.1,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R95232,630,81,19,20.9,13,19,2.3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95233,490,72,20,18.5,10.2,15,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R95235,580,83,20,21.5,11.7,16,2.3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R101249,600,100,23,22.5,11.9,30,2.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R101294,580,107,25,20.4,11.2,33,3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R101299,710,113,25,22.7,10.6,24,2.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R101300,735,110,30,24.3,11.6,25,2.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R105053,380,75,14,17.5,9.8,20,2.4,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R106781,377,87,16,21.5,10.7,23,3.5,m,j
+Aipysurus,eydouxii,AUST MUSEUM,R106782,450,77,16,21.7,9.9,22,3.2,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R144775,582,120,23,21.8,14.8,28,3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R163602,626,91,18,20.3,10.7,24,2.2,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R177700,840,136,28,22.6,14.9,28,3.5,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140858,610,118,25,25.7,17.5,30,2.5,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140856,665,118,27,24.7,16.4,30,3.2,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140859,790,120,30,24.9,21.8,36,3.8,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140860,660,130,30,26.5,18.6,35,4,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140863,700,131,25,23.2,15.2,30,3.4,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140862,735,110,26,26.3,17.2,34,3.6,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140857,740,110,30,27,21.2,40,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140861,780,135,30,27.2,18.6,42,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140871,565,102,23,23.2,16.4,27,3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140869,690,138,29,26.2,16.5,32,3,m,a
+Aipysurus,eydouxii,AUST MUSEUM,R140864,600,97,27,23.5,16.3,33,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140865,760,0,27,27.7,16.2,38,3.5,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140868,780,114,25,25,17,31,3,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R163859,780,120,31,26.6,19.8,42,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140867,610,96,24,20.2,13.5,28,3,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R140870,620,94,25,22.6,14.8,30,2.7,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R163861,760,128,29,26.2,16.7,30,3.2,f,a
+Aipysurus,eydouxii,AUST MUSEUM,R140866,640,108,25,26,16.7,25,2.9,f,j
+Aipysurus,eydouxii,AUST MUSEUM,R163862,810,130,27,23.2,17.2,39,3.8,f,a
+Aipysu+C370rus,foliosquama,AUST MUSEUM,R44899,900,92,24,22.3,16.5,25,2.5,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R44906,710,88,20,19.5,13.7,21,2.7,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44872,800,88,20,20.7,16.7,21,3.6,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44902,670,78,20,18.1,11.6,18,3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44890,690,84,18,18.7,14.5,17,2.3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R104810,1000,111,30,31.6,22.9,33,3.5,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R44456,830,96,17,23,0,25,3.2,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44597,730,91,24,22.4,15.9,23,3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44619,760,100,19,19.6,11.8,23,2.8,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44896,740,98,23,19.5,15.2,22,2.7,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44592,780,81,26,22.6,18,30,3.2,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R44576,690,84,22,19.6,13.7,26,2.9,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R37143,690,66,21,19.5,11.6,19,3.2,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R40488,750,100,23,23.2,15.6,30,3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R41508,640,78,20,20,12.4,21,2.3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R40483,650,88,19,22.6,13.7,19,2.9,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R41542,660,86,20,19.5,12.8,21,2.5,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44446,670,73,19,22.5,14,20,3,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R40499,750,90,21,20.5,15.3,18,3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R41516,655,78,19,22.2,13.5,19,2.7,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R40492,575,70,18,18.4,13,19,2.6,m,j
+Aipysurus,foliosquama,AUST MUSEUM,R40496,770,88,24,0,0,28,0,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R37137,780,88,21,24.8,14.9,20,3,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R41537,765,100,25,21,14.6,27,3.2,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R40489,750,95,22,21.7,14.1,25,3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R41521,740,98,22,22,15.3,26,2.5,f,a
+Aipysurus,foliosquama,AUST MUSEUM,R42701,730,88,19,19.5,10.2,17,3.5,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R44443,675,84,23,20.1,12.4,24,2.3,m,a
+Aipysurus,foliosquama,AUST MUSEUM,R41526,670,64,20,19.6,12.5,22,2.5,f,j
+Aipysurus,fuscus,AUST MUSEUM,R37142,670,90,20,20.5,14.6,22,2.9,f,a
+Aipysurus,fuscus,AUST MUSEUM,R44445,510,79,18,18,12.4,18,2,f,j
+Aipysurus,fuscus,AUST MUSEUM,R41054,560,86,21,19.6,12.8,22,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44441,700,108,21,22.1,15.7,28,3.4,f,a
+Aipysurus,fuscus,AUST MUSEUM,R42708,690,99,25,22,13.6,24,2.9,f,a
+Aipysurus,fuscus,AUST MUSEUM,R41538,720,106,25,23.6,17.3,28,3.2,f,a
+Aipysurus,fuscus,AUST MUSEUM,R41531,625,93,20,18.5,12,19,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R40482,695,106,23,21.6,14.5,26,3,f,a
+Aipysurus,fuscus,AUST MUSEUM,R41056,585,93,21,20.7,14,24,3.5,m,a
+Aipysurus,fuscus,AUST MUSEUM,R40498,630,102,21,22,15.8,20,2.8,f,a
+Aipysurus,fuscus,AUST MUSEUM,R40487,735,110,25,0,0,23,0,f,a
+Aipysurus,fuscus,AUST MUSEUM,R41055,650,102,22,20.5,13.8,21,3.4,m,a
+Aipysurus,fuscus,AUST MUSEUM,R40481,720,111,25,25.5,15.7,24,3.2,f,a
+Aipysurus,fuscus,AUST MUSEUM,R41533,700,110,19,21.8,14.4,23,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R41534,705,116,22,25.4,15.6,24,3.6,m,a
+Aipysurus,fuscus,AUST MUSEUM,R41535,670,105,22,20.3,13.7,26,3.8,m,a
+Aipysurus,fuscus,AUST MUSEUM,R42697,645,95,24,20.6,14.1,22,4.1,m,a
+Aipysurus,fuscus,AUST MUSEUM,R37135,690,101,20,19.5,12.6,21,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44893,820,120,30,26.7,17.3,26,4,f,a
+Aipysurus,fuscus,AUST MUSEUM,R44603,700,103,21,21.6,11.8,21,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44586,708,105,26,24.3,14.2,27,3.2,f,a
+Aipysurus,fuscus,AUST MUSEUM,R44869,660,108,25,22.5,14.6,24,3,f,a
+Aipysurus,fuscus,AUST MUSEUM,R44887,720,99,24,0,0,22,0,f,a
+Aipysurus,fuscus,AUST MUSEUM,R44916,660,105,21,20.5,11.8,21,3,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44462,715,105,22,23.2,15.3,21,3.5,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44469,710,103,22,22.6,15.7,27,3,f,a
+Aipysurus,fuscus,AUST MUSEUM,R45052,650,92,19,19.2,12.8,23,2.7,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44879,640,98,22,19.2,13.4,20,2.6,m,a
+Aipysurus,fuscus,AUST MUSEUM,R44880,700,105,22,22.6,15,22,3.6,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R185673,410,74,15,15.2,9.8,18,2.6,m,j
+Emydocephalus,annulatus,AUST MUSEUM,R185674,320,52,12,15.6,9.2,17,1.9,f,j
+Emydocephalus,annulatus,AUST MUSEUM,R185676,315,56,13,16.5,10,18,2.6,m,j
+Emydocephalus,annulatus,AUST MUSEUM,R186599,310,54,12,14,9.2,17,2.4,m,j
+Emydocephalus,annulatus,AUST MUSEUM,R185675,319,57,13,15.7,9,13,2.3,m,j
+Emydocephalus,annulatus,AUST MUSEUM,R185677,425,66,14,16.3,11.3,17,2.4,f,j
+Emydocephalus,annulatus,AUST MUSEUM,R185680,555,95,14,17.7,12.3,20,2.8,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R185682,565,85,22,19.2,13.8,19,2.7,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R185940,600,100,18,18.6,12.7,21,3,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R185684,565,93,18,18.4,12.5,22,2.5,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R185679,550,90,20,18.5,13.6,22,2.9,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44882,480,89,23,18.3,12.4,22,2.7,m,j
+Emydocephalus,annulatus,AUST MUSEUM,R44471,570,104,24,20.6,11.8,22,3.1,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44540,570,109,19,18.2,11.5,20,2.6,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44608,540,100,22,19.5,12.2,20,2.6,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44537,680,111,25,23.4,15.7,30,3.1,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44604,465,75,20,18.7,12.7,24,2,f,j
+Emydocephalus,annulatus,AUST MUSEUM,R44543,730,114,28,25.2,17.7,36,3.3,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44889,680,111,29,23.2,13.7,41,3,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44590,530,94,21,18.5,11.9,23,3.1,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44645,520,98,24,18.7,12.9,25,3.2,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44621,545,100,22,19.6,12.3,26,2.7,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44509,635,120,24,19.3,13.2,20,3,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44622,580,93,22,21.6,13,31,2.4,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44641,660,115,25,22.1,13.6,26,3.4,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44573,680,0,28,27.4,15.7,36,2.8,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44884,570,105,25,21.5,14.7,25,3.3,m,a
+Emydocephalus,annulatus,AUST MUSEUM,R44585,630,102,28,22.5,14.7,31,3.3,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44507,620,102,26,22.6,15.1,28,2.8,f,a
+Emydocephalus,annulatus,AUST MUSEUM,R44624,645,115,28,21.3,14.3,27,3.6,m,a
